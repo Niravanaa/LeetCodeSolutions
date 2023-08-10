@@ -1,4 +1,4 @@
-# LeetCode Daily Solutions Repository <img src="https://github.com/Niravanaa/LeetCodeSolutions/assets/64038962/81e108cf-410a-4b2f-8ed2-ed84b66ecb4c" width="64" height="64">
+# LeetCode Daily Solutions Repository <img src="https://github.com/Niravanaa/LeetCodeSolutions/assets/64038962/aec8f2d0-52f9-4b93-81c3-0de5675cda1c" style="border-radius:90%" width="64" height="64">
 
 Welcome to my LeetCode Solutions repository! In this repository, you'll find my daily solutions to various LeetCode problems, with the goal of enhancing my problem-solving skills and coding proficiency. Each day, I aim to solve at least one LeetCode problem using the programming language of my choice. Feel free to explore the solutions, provide feedback, or use them as a reference for your own LeetCode journey.
 
