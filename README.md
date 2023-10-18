@@ -6,7 +6,7 @@ Welcome to my LeetCode Solutions repository! In this repository, you'll find my 
 [LeetCode](https://leetcode.com/) is a widely-used platform for practicing coding skills through solving coding challenges. Covering a wide range of topics including algorithms, data structures, databases, and more, LeetCode is an invaluable resource for both beginners and experienced programmers looking to hone their problem-solving abilities.
 
 ## Repository Structure
-The repository is organized by programming language, making it easy to navigate through solutions implemented in a specific language. Each problem solution is documented with a detailed explanation of the approach taken.
+The repository is organized by programming language, making it easy to navigate through solutions implemented in a particular language. Each problem solution is documented with a detailed explanation of the approach taken.
 
 ```├── Python
 │   ├── Easy
