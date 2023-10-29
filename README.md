@@ -5,56 +5,6 @@ Welcome to my LeetCode Solutions repository! In this repository, you'll find my 
 ## About LeetCode
 [LeetCode](https://leetcode.com/) is a widely-used platform for practicing coding skills through solving coding challenges. Covering a wide range of topics including algorithms, data structures, databases, and more, LeetCode is an invaluable resource for both beginners and experienced programmers looking to hone their problem-solving abilities.
 
-## Repository Structure
-The repository is organized by programming language, making it easy to navigate through solutions implemented in a specific language. Each problem solution is documented with a detailed explanation of the approach taken.
-
-```├── Python
-│   ├── Easy
-│   │   ├── Array
-│   │   │   ├── Problem1.py
-│   │   │   ├── Problem2.py
-│   │   │   └── ...
-│   │   ├── String
-│   │   │   ├── Problem1.py
-│   │   │   ├── Problem2.py
-│   │   │   └── ...
-│   │   └── ...
-│   ├── Medium
-│   │   ├── Linked List
-│   │   │   ├── Problem1.py
-│   │   │   ├── Problem2.py
-│   │   │   └── ...
-│   │   ├── Tree
-│   │   │   ├── Problem1.py
-│   │   │   ├── Problem2.py
-│   │   │   └── ...
-│   │   └── ...
-│   └── ...
-├── Java
-│   ├── Easy
-│   │   ├── Array
-│   │   │   ├── Problem1.java
-│   │   │   ├── Problem2.java
-│   │   │   └── ...
-│   │   ├── String
-│   │   │   ├── Problem1.java
-│   │   │   ├── Problem2.java
-│   │   │   └── ...
-│   │   └── ...
-│   ├── Medium
-│   │   ├── Linked List
-│   │   │   ├── Problem1.java
-│   │   │   ├── Problem2.java
-│   │   │   └── ...
-│   │   ├── Tree
-│   │   │   ├── Problem1.java
-│   │   │   ├── Problem2.java
-│   │   │   └── ...
-│   │   └── ...
-│   └── ...
-└── README.md
-```
-
 ## How to Use This Repository
 1. Browse the folders based on the programming language you're interested in (e.g., Python, Java).
 2. Inside each language folder, navigate through the subfolders based on problem difficulty and topic.
