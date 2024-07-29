@@ -7,5 +7,5 @@ class Solution:
             for col in range(cols - 1):
                 if matrix[row][col] != matrix[row + 1][col + 1]:
                     return False
-        
+        #
         return True
