@@ -3,7 +3,7 @@ from collections import Counter
 
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
-        # Normalize the paragraph by converting to lowercase
+        # Normalize the paragraph by converting to lower
         # and replacing all punctuation with spaces
         normalized_str = re.sub(r'[^\w\s]', ' ', paragraph.lower())
         
